@@ -102,9 +102,9 @@ namespace MyNameSpace
             this.twentyOunceRadioButton.AutoSize = true;
             this.twentyOunceRadioButton.Location = new System.Drawing.Point(12, 66);
             this.twentyOunceRadioButton.Name = "twentyOunceRadioButton";
-            this.twentyOunceRadioButton.Size = new System.Drawing.Size(96, 17);
+            this.twentyOunceRadioButton.Size = new System.Drawing.Size(102, 17);
             this.twentyOunceRadioButton.TabIndex = 2;
-            this.twentyOunceRadioButton.Text = "&20 Ounce 6.00";
+            this.twentyOunceRadioButton.Text = "&20 Ounce 16.00";
             this.twentyOunceRadioButton.UseVisualStyleBackColor = true;
             this.twentyOunceRadioButton.CheckedChanged += new System.EventHandler(this.twelveOunceRadioButton_CheckedChanged);
             // 
@@ -113,9 +113,9 @@ namespace MyNameSpace
             this.sixteenOunceRadioButton.AutoSize = true;
             this.sixteenOunceRadioButton.Location = new System.Drawing.Point(12, 43);
             this.sixteenOunceRadioButton.Name = "sixteenOunceRadioButton";
-            this.sixteenOunceRadioButton.Size = new System.Drawing.Size(96, 17);
+            this.sixteenOunceRadioButton.Size = new System.Drawing.Size(102, 17);
             this.sixteenOunceRadioButton.TabIndex = 1;
-            this.sixteenOunceRadioButton.Text = "&16 Ounce 5.00";
+            this.sixteenOunceRadioButton.Text = "&16 Ounce 15.00";
             this.sixteenOunceRadioButton.UseVisualStyleBackColor = true;
             this.sixteenOunceRadioButton.CheckedChanged += new System.EventHandler(this.twelveOunceRadioButton_CheckedChanged);
             // 
@@ -124,9 +124,9 @@ namespace MyNameSpace
             this.twelveOunceRadioButton.AutoSize = true;
             this.twelveOunceRadioButton.Location = new System.Drawing.Point(12, 19);
             this.twelveOunceRadioButton.Name = "twelveOunceRadioButton";
-            this.twelveOunceRadioButton.Size = new System.Drawing.Size(96, 17);
+            this.twelveOunceRadioButton.Size = new System.Drawing.Size(102, 17);
             this.twelveOunceRadioButton.TabIndex = 0;
-            this.twelveOunceRadioButton.Text = "12 &Ounce 4.00";
+            this.twelveOunceRadioButton.Text = "12 &Ounce 14.00";
             this.twelveOunceRadioButton.UseVisualStyleBackColor = true;
             this.twelveOunceRadioButton.CheckedChanged += new System.EventHandler(this.twelveOunceRadioButton_CheckedChanged);
             // 
